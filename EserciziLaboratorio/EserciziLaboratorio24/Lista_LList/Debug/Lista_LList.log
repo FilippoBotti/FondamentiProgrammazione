@@ -1,0 +1,6 @@
+﻿  Lista_LList.cpp
+c:\users\filippo\desktop\progetti visual studio\esercizilaboratorio24\lista_llist\lista_llist.cpp(49): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\filippo\desktop\progetti visual studio\esercizilaboratorio24\lista_llist\lista_llist.cpp(34): warning C4101: 'tempo': variabile locale senza riferimenti
+c:\users\filippo\desktop\progetti visual studio\esercizilaboratorio24\lista_llist\lista_llist.cpp(33): warning C4101: 'secondi': variabile locale senza riferimenti
+c:\users\filippo\desktop\progetti visual studio\esercizilaboratorio24\lista_llist\lista_llist.cpp(33): warning C4101: 'minuti': variabile locale senza riferimenti
+  Lista_LList.vcxproj -> C:\Users\Filippo\Desktop\Progetti visual studio\EserciziLaboratorio24\Debug\Lista_LList.exe
