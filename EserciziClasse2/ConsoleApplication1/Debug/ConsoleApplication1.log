@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+c:\users\filippo\desktop\progetti visual studio\consoleapplication1\consoleapplication1\consoleapplication1.cpp(25): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+c:\users\filippo\desktop\progetti visual studio\consoleapplication1\consoleapplication1\consoleapplication1.cpp(28): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+  ConsoleApplication1.vcxproj -> C:\Users\Filippo\Desktop\Progetti visual studio\ConsoleApplication1\Debug\ConsoleApplication1.exe
