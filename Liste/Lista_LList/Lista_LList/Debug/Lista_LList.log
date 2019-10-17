@@ -1,0 +1,5 @@
+﻿  Lista_LList.cpp
+c:\users\filippo\desktop\progetti visual studio\lista_llist\lista_llist\lista_llist.cpp(151): warning C4305: 'argomento': troncamento da 'double' a 'const float'
+c:\users\filippo\desktop\progetti visual studio\lista_llist\lista_llist\lista_llist.cpp(152): warning C4305: 'argomento': troncamento da 'double' a 'const float'
+c:\users\filippo\desktop\progetti visual studio\lista_llist\lista_llist\lista_llist.cpp(157): warning C4244: 'argomento': conversione da 'const float' a 'int'. Possibile perdita di dati.
+  Lista_LList.vcxproj -> C:\Users\Filippo\Desktop\Progetti visual studio\Lista_LList\Debug\Lista_LList.exe

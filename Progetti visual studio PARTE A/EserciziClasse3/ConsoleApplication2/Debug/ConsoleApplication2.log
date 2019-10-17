@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+c:\users\filippo\desktop\progetti visual studio\consoleapplication2\consoleapplication2\consoleapplication2.cpp(17): warning C4101: 'trovato': variabile locale senza riferimenti
+c:\users\filippo\desktop\progetti visual studio\consoleapplication2\consoleapplication2\consoleapplication2.cpp(17): warning C4101: 'j': variabile locale senza riferimenti
+  ConsoleApplication2.vcxproj -> C:\Users\Filippo\Desktop\Progetti visual studio\ConsoleApplication2\Debug\ConsoleApplication2.exe

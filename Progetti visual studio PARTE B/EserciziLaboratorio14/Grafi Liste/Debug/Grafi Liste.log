@@ -1,0 +1,3 @@
+﻿  Grafi Liste.cpp
+c:\users\filippo\desktop\progetti visual studio parte b\esercizilaboratorio14\grafi liste\grafi liste.cpp(90): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+  Grafi Liste.vcxproj -> C:\Users\Filippo\Desktop\Progetti visual studio PARTE B\EserciziLaboratorio14\Debug\Grafi Liste.exe

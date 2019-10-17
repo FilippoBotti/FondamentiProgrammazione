@@ -1,0 +1,5 @@
+﻿  Coda_LQueue.cpp
+c:\users\filippo\desktop\progetti visual studio\esercizilaboratorio26\coda_lqueue\coda_lqueue.cpp(30): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+c:\users\filippo\desktop\progetti visual studio\esercizilaboratorio26\coda_lqueue\coda_lqueue.cpp(32): warning C4101: 'pagine': variabile locale senza riferimenti
+c:\users\filippo\desktop\progetti visual studio\esercizilaboratorio26\coda_lqueue\coda_lqueue.cpp(32): warning C4101: 'id': variabile locale senza riferimenti
+  Coda_LQueue.vcxproj -> C:\Users\Filippo\Desktop\Progetti visual studio\EserciziLaboratorio26\Debug\Coda_LQueue.exe

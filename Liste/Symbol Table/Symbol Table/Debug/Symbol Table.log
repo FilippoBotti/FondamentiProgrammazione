@@ -1,0 +1,5 @@
+﻿  Symbol Table.cpp
+c:\users\filippo\desktop\liste\symbol table\symbol table\symbol_table_item.h(37): warning C4244: '=': conversione da 'double' a 'Key'. Possibile perdita di dati.
+c:\users\filippo\desktop\liste\symbol table\symbol table\symbol_table_item.h(38): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\filippo\desktop\liste\symbol table\symbol table\symbol table.cpp(10): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+  Symbol Table.vcxproj -> C:\Users\Filippo\Desktop\Liste\Symbol Table\Debug\Symbol Table.exe

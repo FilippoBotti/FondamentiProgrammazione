@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Coda_LQueue.cpp
+c:\users\filippo\desktop\liste\coda_lqueue\coda_lqueue\coda_lqueue.cpp(26): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+  Coda_LQueue.vcxproj -> C:\Users\Filippo\Desktop\Liste\Coda_LQueue\Debug\Coda_LQueue.exe

@@ -1,0 +1,6 @@
+﻿  Symbol Table.cpp
+c:\users\filippo\desktop\progetti visual studio parte b\esercizilaboratorio2\symbol table\symbol_table_item.h(37): warning C4244: '=': conversione da 'double' a 'Key'. Possibile perdita di dati.
+c:\users\filippo\desktop\progetti visual studio parte b\esercizilaboratorio2\symbol table\symbol_table_item.h(38): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\filippo\desktop\progetti visual studio parte b\esercizilaboratorio2\symbol table\symbol table.cpp(10): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+c:\users\filippo\desktop\progetti visual studio parte b\esercizilaboratorio2\symbol table\symbol table.cpp(11): warning C4101: 'N': variabile locale senza riferimenti
+  Symbol Table.vcxproj -> C:\Users\Filippo\Desktop\Progetti visual studio PARTE B\EserciziLaboratorio2\Debug\Symbol Table.exe

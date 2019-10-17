@@ -1,0 +1,3 @@
+﻿  Binary Tree.cpp
+c:\users\filippo\desktop\progetti visual studio parte b\esercizilaboratorio6\binary tree\binary tree.cpp(16): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+  Binary Tree.vcxproj -> C:\Users\Filippo\Desktop\Progetti visual studio PARTE B\EserciziLaboratorio6\Debug\Binary Tree.exe

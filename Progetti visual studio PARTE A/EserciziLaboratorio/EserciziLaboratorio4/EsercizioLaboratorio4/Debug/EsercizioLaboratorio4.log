@@ -1,0 +1,4 @@
+﻿  EsercizioLaboratorio4.cpp
+c:\users\filippo\desktop\progetti visual studio\eserciziolaboratorio4\eserciziolaboratorio4\eserciziolaboratorio4.cpp(29): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+c:\users\filippo\desktop\progetti visual studio\eserciziolaboratorio4\eserciziolaboratorio4\eserciziolaboratorio4.cpp(40): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+  EsercizioLaboratorio4.vcxproj -> C:\Users\Filippo\Desktop\Progetti visual studio\EsercizioLaboratorio4\Debug\EsercizioLaboratorio4.exe

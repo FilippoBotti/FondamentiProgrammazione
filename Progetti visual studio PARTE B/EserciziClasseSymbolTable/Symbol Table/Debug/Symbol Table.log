@@ -1,0 +1,5 @@
+﻿  Symbol Table.cpp
+c:\users\filippo\desktop\progetti visual studio parte b\eserciziclassesymboltable\symbol table\symbol_table_item.h(42): warning C4244: '=': conversione da 'double' a 'Key'. Possibile perdita di dati.
+c:\users\filippo\desktop\progetti visual studio parte b\eserciziclassesymboltable\symbol table\symbol_table_item.h(43): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+Symbol Table.obj : error LNK2019: riferimento al simbolo esterno "void __cdecl Assert(bool,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Assert@@YAX_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) non risolto nella funzione "public: virtual class Item & __thiscall LList<class Item>::getValue(void)const " (?getValue@?$LList@VItem@@@@UBEAAVItem@@XZ)
+C:\Users\Filippo\Desktop\Progetti visual studio PARTE B\EserciziClasseSymbolTable\Debug\Symbol Table.exe : fatal error LNK1120: 1 esterni non risolti

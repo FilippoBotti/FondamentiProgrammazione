@@ -1,0 +1,5 @@
+﻿  Binary Search Tree.cpp
+c:\users\filippo\desktop\liste\binary search tree\binary search tree\symbol_table_item.h(37): warning C4244: '=': conversione da 'double' a 'Key'. Possibile perdita di dati.
+c:\users\filippo\desktop\liste\binary search tree\binary search tree\symbol_table_item.h(38): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\filippo\desktop\liste\binary search tree\binary search tree\binary search tree.cpp(14): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+  Binary Search Tree.vcxproj -> C:\Users\Filippo\Desktop\Liste\Binary Search Tree\Debug\Binary Search Tree.exe

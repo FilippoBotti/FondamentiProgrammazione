@@ -1,0 +1,7 @@
+150755,Aldreghetti Ivano,22,ivano.aldreghetti@studenti.unipr.it
+287065, Botti filippo, 30, filippo.botti@studenti.unipr.it
+220765, Sacco Giovanni, 25, giovanni.sacco@studenti.unipr.it
+217865, Ricco Peppe, INSUFFICIENTE, peppe.ricco@studenti.unipr.it
+213456, Wolf Sandro, 18, sandro.wolf@studenti.unipr.it
+765648, Lopez Marco, INSUFFICIENTE, marcolopez@studenti.unipr.it
+987654, Quali Susanna, 23, susannaquali@studenti.unipr.it

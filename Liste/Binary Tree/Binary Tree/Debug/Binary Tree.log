@@ -1,0 +1,4 @@
+﻿  Binary Tree.cpp
+c:\users\filippo\desktop\liste\binary tree\binary tree\binary tree.cpp(16): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+c:\users\filippo\desktop\liste\binary tree\binary tree\binary tree.cpp(37): warning C4244: 'argomento': conversione da 'double' a 'int'. Possibile perdita di dati.
+  Binary Tree.vcxproj -> C:\Users\Filippo\Desktop\Liste\Binary Tree\Debug\Binary Tree.exe

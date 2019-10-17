@@ -1,0 +1,10 @@
+1938; VALETTI Giovanni;ita
+1937; BARTALI Gino;ita
+1939; VALETTI Giovanni;ita
+1940; COPPI Fausto;ita
+1946; BARTALI Gino;ita
+1949; COPPI Fausto;ita
+1950; KOBLET Hugo;Svi
+1956; GAUL Charly;Lus
+1959; GAUL Charly;Lus
+1941; COPPI Fausto;ita  

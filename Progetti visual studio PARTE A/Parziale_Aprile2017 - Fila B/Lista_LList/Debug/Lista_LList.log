@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Lista_LList.cpp
+c:\users\filippo\desktop\fondamenti di programmazione\progetti visual studio parte a\parziale_aprile2017 - fila b\lista_llist\lista_llist.cpp(131): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+  Lista_LList.vcxproj -> C:\Users\Filippo\Desktop\Fondamenti di Programmazione\Progetti visual studio PARTE A\Parziale_Aprile2017 - Fila B\Debug\Lista_LList.exe

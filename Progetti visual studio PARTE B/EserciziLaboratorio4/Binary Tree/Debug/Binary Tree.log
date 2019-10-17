@@ -1,0 +1,3 @@
+﻿  Binary Tree.cpp
+c:\users\filippo\desktop\progetti visual studio parte b\esercizilaboratorio4\binary tree\binary_tree.h(136): warning C4715: 'BinaryTree<Item>::equal_structure': non tutti i percorsi di controllo restituiscono un valore
+  Binary Tree.vcxproj -> C:\Users\Filippo\Desktop\Progetti visual studio PARTE B\EserciziLaboratorio4\Debug\Binary Tree.exe

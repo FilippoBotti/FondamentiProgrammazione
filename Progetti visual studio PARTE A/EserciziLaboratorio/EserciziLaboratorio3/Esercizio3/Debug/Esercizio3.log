@@ -1,0 +1,15 @@
+﻿Compilazione avviata 06/03/2018 09:57:58.
+     1>Progetto "C:\Users\filippo.botti2\Desktop\Esercizio3\Esercizio3\Esercizio3.vcxproj" sul nodo 2 (destinazioni: Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Origine.cpp
+         Origine.cpp
+     1>c:\users\filippo.botti2\desktop\esercizio3\esercizio3\origine.cpp(11): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+     1>c:\users\filippo.botti2\desktop\esercizio3\esercizio3\origine.cpp(14): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\filippo.botti2\Desktop\Esercizio3\Debug\Esercizio3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\filippo.botti2\Desktop\Esercizio3\Debug\Esercizio3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\filippo.botti2\Desktop\Esercizio3\Debug\Esercizio3.lib" /MACHINE:X86 Debug\Origine.obj
+         Esercizio3.vcxproj -> C:\Users\filippo.botti2\Desktop\Esercizio3\Debug\Esercizio3.exe
+     1>Compilazione progetto "C:\Users\filippo.botti2\Desktop\Esercizio3\Esercizio3\Esercizio3.vcxproj" (destinazioni: Build) completata.
+
+Compilazione completata.
+
+Tempo trascorso 00:00:01.68

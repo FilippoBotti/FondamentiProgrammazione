@@ -1,0 +1,5 @@
+﻿  Lista_LList.cpp
+c:\users\filippo\desktop\progetti visual studio\esercizilaboratorio22\lista_llist\lista_llist.cpp(55): warning C4101: 'eta_max': variabile locale senza riferimenti
+c:\users\filippo\desktop\progetti visual studio\esercizilaboratorio22\lista_llist\lista_llist.cpp(56): warning C4101: 'num_scelti': variabile locale senza riferimenti
+c:\users\filippo\desktop\progetti visual studio\esercizilaboratorio22\lista_llist\listtest.h(44): warning C4715: 'operator<': non tutti i percorsi di controllo restituiscono un valore
+  Lista_LList.vcxproj -> C:\Users\Filippo\Desktop\Progetti visual studio\EserciziLaboratorio22\Debug\Lista_LList.exe
